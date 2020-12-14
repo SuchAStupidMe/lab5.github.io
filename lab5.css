@@ -1,0 +1,113 @@
+body {
+	background-color: #829079;
+}
+
+a {
+	color: black;
+}
+
+.carousel-indicators li {
+    background-color: #B5651D;  
+}
+
+.carousel-indicators .active {
+    background-color: brown;
+}
+
+.container-fluid div {
+	left: 5px;
+	top: 10px;
+}
+
+#button-link {
+	position: absolute;
+	bottom: 60px;
+	left: 600px;
+}
+
+#next-page {
+	position: relative;
+	bottom: 145px;
+	left: 1550px;
+}
+
+.col-md-6 div {
+	position: relative;
+	height: 200px;
+	width: 500px;
+	left: 1150px;
+	bottom: 690px;
+}
+
+
+.navbar {
+  background-color: #ede6b9;
+}
+.navbar .navbar-brand {
+  color: #b99253;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+  color: #946b35;
+}
+.navbar .navbar-text {
+  color: #b99253;
+}
+.navbar .navbar-text a {
+  color: #946b35;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+  color: #946b35; 
+}
+.navbar .navbar-nav .nav-link {
+  color: #b99253;
+  border-radius: .25rem;
+  margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+  color: #946b35;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+  color: #946b35;
+  background-color: #ede6b9;
+}
+.navbar .navbar-toggler {
+  border-color: #ede6b9;
+}
+.navbar .navbar-toggler:hover,
+.navbar .navbar-toggler:focus {
+  background-color: #ede6b9;
+}
+.navbar .navbar-toggler .navbar-toggler-icon {
+  color: #b99253;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+  border-color: #b99253;
+}
+.navbar .navbar-link {
+  color: #b99253;
+}
+.navbar .navbar-link:hover {
+  color: #946b35;
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+  color: #b99253;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+  color: #946b35;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+  color: #946b35;
+  background-color: #ede6b9;
+}
+
